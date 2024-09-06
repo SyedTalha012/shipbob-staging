@@ -7,13 +7,13 @@ function Solution() {
             icon: '/images/Solution/product-sec10-1.svg', // Replace with the correct path to your icon
             title: 'Solutions for your unique needs',
             description:
-                'ShipBob can accommodate your business if you require additional services such as kitting, B2B orders, international fulfillment, and much more.',
+                '3PHOST can accommodate your business if you require additional services such as kitting, B2B orders, international fulfillment, and much more.',
         },
         {
             icon: '/images/Solution/product-sec10-2.svg', // Replace with the correct path to your icon
             title: 'A scalable partner as you grow',
             description:
-                'From helping you grow to supporting your growth, ShipBob makes it easy to increase revenue, reduce cart abandonment, and expand domestically or internationally.',
+                'From helping you grow to supporting your growth, 3PHOST makes it easy to increase revenue, reduce cart abandonment, and expand domestically or internationally.',
         },
         {
             icon: '/images/Solution/product-sec10-3.svg', // Replace with the correct path to your icon

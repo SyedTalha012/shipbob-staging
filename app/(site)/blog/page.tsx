@@ -21,7 +21,7 @@ const BlogPage = async () => {
 
           <div>
             <h1 className="text-3xl font-bold text-black dark:text-white">Subscribe to the</h1>
-            <h1 className="text-3xl font-bold text-black dark:text-white">ShipBob Blog</h1>
+            <h1 className="text-3xl font-bold text-black dark:text-white">3PHOST Blog</h1>
             <p className="text-lg mt-4">Get a bi-weekly email, rounding up our latest articles that</p>
             <p className="text-lg ">feature the latest tips to improve ecommerce logistics.</p>
           </div>
@@ -32,7 +32,7 @@ const BlogPage = async () => {
             </div>
             <div>
               <p className="text-xs font-bold text-[#175cff] mb-2">Enter email to subscribe to our newsletter*</p>
-              <input type="text" name="" id="" placeholder="e.g:robert@shipbob.com" className="h-[4rem] border border-[#d2d2d2] px-3 outline-none rounded-md dark:bg-white" />
+              <input type="text" name="" id="" placeholder="e.g:robert@3PHOST.com" className="h-[4rem] border border-[#d2d2d2] px-3 outline-none rounded-md dark:bg-white" />
             </div>
             <div>
               <Link href="https://nextjstemplates.com/templates/solid" className="flex items-center justify-center rounded-full bg-primary px-7.5 py-3.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho font-bold md:mt-0 mt-5">Subscribe</Link>

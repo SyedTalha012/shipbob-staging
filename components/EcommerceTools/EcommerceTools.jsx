@@ -76,7 +76,7 @@ const platforms = [
     },
     {
       name: 'Polygon',
-      description: 'Sync Shipbob data with any data system.',
+      description: 'Sync 3PHOST data with any data system.',
       imgSrc: 'https://www.shipbob.com/wp-content/smush-webp/2023/06/fb07a23d4811286dbdd7080c601a355e.png.webp',
       
     },

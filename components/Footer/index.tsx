@@ -12,7 +12,7 @@ const Footer = () => {
 
           <div className="flex justify-between items-center pt-20 border-b pb-10">
             <div>
-              <h1 className="text-lg font-bold text-[#52C4FF]">Get in touch with Shipbob</h1>
+              <h1 className="text-lg font-bold text-[#52C4FF]">Get in touch with 3PHOST</h1>
               <p className="text-3xl font-bold text-white mt-2">Looking for a fulfillment solution?</p>
             </div>
             <div>
@@ -36,7 +36,7 @@ const Footer = () => {
                   <FaYoutube className="text-[#175CFF] text-2xl" />
                 </div>
 
-                <a href="#" className="text-lg font-medium text-white">© Copyright ShipBob, Inc. All Rights Reserved. 120 N Racine Ave. Suite 100 Chicago, IL 60607</a>
+                <a href="#" className="text-lg font-medium text-white">© Copyright 3PHOST, Inc. All Rights Reserved. 120 N Racine Ave. Suite 100 Chicago, IL 60607</a>
               </motion.div>
 
               <div className="flex w-full flex-col gap-5 md:flex-row md:justify-between md:gap-0 lg:w-2/3 xl:w-7/12">
@@ -110,7 +110,7 @@ const Footer = () => {
                       <a href="#" className="mb-3 inline-block hover:text-primary">Returns Management</a>
                     </li>
                     <li>
-                      <a href="#" className="mb-3 inline-block hover:text-primary">ShipBob Developer APIs</a>
+                      <a href="#" className="mb-3 inline-block hover:text-primary">3PHOST Developer APIs</a>
                     </li>
                   </ul>
                 </motion.div>
@@ -140,17 +140,17 @@ const Footer = () => {
                       <a href="#" className="mb-3 inline-block hover:text-primary">Shipping Carrier Data</a>
                     </li>
                     <li>
-                      <a href="#" className="mb-3 inline-block hover:text-primary">ShipBob Status Page</a>
+                      <a href="#" className="mb-3 inline-block hover:text-primary">3PHOST Status Page</a>
                     </li>
                     <li>
-                      <a href="#" className="mb-3 inline-block hover:text-primary" >ShipBob Locations</a>
+                      <a href="#" className="mb-3 inline-block hover:text-primary" >3PHOST Locations</a>
                     </li>
 
                     <li>
                       <a href="#" className="mb-3 inline-block hover:text-primary">Health, Beauty</a>
                     </li>
                     <li>
-                      <a href="#" className="mb-3 inline-block hover:text-primary">Shopify + ShipBob</a>
+                      <a href="#" className="mb-3 inline-block hover:text-primary">Shopify + 3PHOST</a>
                     </li>
                   </ul>
                 </motion.div>

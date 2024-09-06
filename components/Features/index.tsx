@@ -10,21 +10,12 @@ const Feature = () => {
       {/* <!-- ===== Features Start ===== --> */}
       <section id="features" className="py-20 lg:py-25 xl:py-30">
         <div className="mx-auto max-w-c-1315 px-4 md:px-8 xl:px-0">
-          {/* <!-- Section Title Start --> */}
-          {/* <SectionHeader
-            headerInfo={{
-              title: "Ecommerce Fulfillment Services",
-              subtitle: "ShipBob is an end-to-end fulfillment provider trusted by thousands of brands",
-              description:
-                "ShipBob is an end-to-end fulfillment provider trusted by thousands of brands",
-            }}
-          />{" "} */}
           <div className="text-start">
             <p className="text-base font-extrabold uppercase text-[#0063ED]">
               Ecommerce Fulfillment Services
             </p>
             <h2 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              ShipBob is an end-to-end fulfillment provider
+            3PHOST is an end-to-end fulfillment provider
               <br />
               trusted by thousands of brands
             </h2>

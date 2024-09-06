@@ -87,7 +87,7 @@ function MarketingPlatforms() {
                     Branding, Marketing and Web Development <br />Agencies
                     </h2>
                     <p className="text-gray-700 my-12">
-                    From branding, product development, advertising and marketing.<br />ShipBob partners with the top agencies to help grow your business.
+                    From branding, product development, advertising and marketing.<br />3PHOST partners with the top agencies to help grow your business.
 
 
                     </p>

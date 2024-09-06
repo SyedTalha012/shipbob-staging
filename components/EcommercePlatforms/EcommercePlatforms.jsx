@@ -83,7 +83,7 @@ function EcommercePlatforms() {
             Ecommerce Platforms & Marketplaces
           </h2>
           <p className="text-gray-700 my-12">
-            ShipBob partners directly with the following platforms and marketplaces <br />to streamline order fulfillment for your business.<br /> Note: A blue checkmark represents a direct integration.
+          3PHOST partners directly with the following platforms and marketplaces <br />to streamline order fulfillment for your business.<br /> Note: A blue checkmark represents a direct integration.
           </p>
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {platforms.map((platform, index) => (

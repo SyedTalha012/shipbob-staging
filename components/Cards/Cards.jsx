@@ -35,7 +35,7 @@ const Cards = ({item,position,p1,p2,heading,url,brWord}) => {
             <div className={`animate_right hidden md:w-1/2 lg:block ${position ==1 ? "order-2" :"order-1"}`}>
               <div className="relative 2xl:-mr-7.5">
                 <div className=" relative aspect-[700/444] w-full bg-[#FDFEFF]">
-                  <Image className="shadow-solid-l rounded-3xl" src={url} alt="Hero" width={400} height={300}/>
+                  <Image className="" src={url} alt="Hero" width={400} height={300}/>
                 </div>
               </div>
             </div>

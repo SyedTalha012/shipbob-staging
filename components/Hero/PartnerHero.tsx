@@ -11,14 +11,14 @@ function PartnerHero() {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-6xl ">
-                ShipBob Partner Ecosystem
+              3PHOST Partner Ecosystem
                 <br /> & Integrations
                 <br />
               </h1>
 
               <div className="mt-2">
                 <p>
-                  ShipBob is a full-stack fulfillment platform. We use our
+                3PHOST is a full-stack fulfillment platform. We use our
                   proprietary software across our fulfillment network for a
                   cohesive experience. Orders are automatically sent to our
                   warehouses, where inventory is picked, packed, and shipped to

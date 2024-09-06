@@ -74,7 +74,7 @@ const platforms = [
   
     {
       name: 'PackageBee',
-      description: 'Connect your custom online store to ShipBob.',
+      description: 'Connect your custom online store to 3PHOST.',
       imgSrc: 'https://www.shipbob.com/wp-content/uploads/2021/03/Package-Bee-Listings-Logo.png',
       
     },
@@ -136,7 +136,7 @@ function EcommerceOperations() {
 
                     </h2>
                     <p className="text-gray-700 my-12">
-                    Managing inventory, forecasting demand, and order handling. ShipBob <br />partners with the leading platforms to scale your brand.<br /> Note: A blue checkmark represents a direct integration.
+                    Managing inventory, forecasting demand, and order handling. 3PHOST <br />partners with the leading platforms to scale your brand.<br /> Note: A blue checkmark represents a direct integration.
                     </p>
                     <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
                         {platforms.map((platform, index) => (

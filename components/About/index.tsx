@@ -11,7 +11,7 @@ const About = () => {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <p className="font-bold text-[#0675FE]">annual report</p>
-              <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-4xl ">Download ShipBob’s 2024 <br /> State of Ecommerce <br /> Fulfillment Report</h1>
+              <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-4xl ">Download 3PHOST 2024 <br /> State of Ecommerce <br /> Fulfillment Report</h1>
               <h1 className="mb-2 pr-16 text-md font-bold text-black dark:text-white ">Access 70+ data points from ecommerce brands, such as:</h1>
 
               <div className="flex items-start gap-x-3 mt-4">

@@ -32,12 +32,12 @@ const Contact = () => {
             <div>
               <h1 className="text-[4rem] font-bold text-black dark:text-white mb-[3rem]">Contact Us</h1>
               <p className="mt-4 text-lg">We’re here to help. Ask us about the product, our services, and any <br /> questions you have.</p>
-              <p className="mt-4 text-lg">ShipBob HQ address 120 N Racine Ave. Suite 100 Chicago, IL 60607</p>
+              <p className="mt-4 text-lg">3PHOST HQ address 120 N Racine Ave. Suite 100 Chicago, IL 60607</p>
               <p className="mt-4 text-lg border-b border-[#2F6DFF] pb-1 w-fit text-[#2F6DFF] cursor-pointer">View our fulfillment locations here.</p>
               <p className="mt-4 text-lg font-semibold">Customer Support</p>
               <p className="mt-4 text-lg">Need help with anything?</p>
               <ul>
-                <li className="mt-2 list-disc text-lg font-semibold border-b border-[#2F6DFF] pb-1 w-fit text-[#2F6DFF] cursor-pointer">Contact ShipBob’s Merchant Care team</li>
+                <li className="mt-2 list-disc text-lg font-semibold border-b border-[#2F6DFF] pb-1 w-fit text-[#2F6DFF] cursor-pointer">Contact 3PHOST Merchant Care team</li>
                 <li className="mt-2 list-disc text-lg font-semibold">Call 1-312-313-1104</li>
                 <li className="mt-2 list-disc text-lg font-semibold border-b border-[#2F6DFF] pb-1 w-fit text-[#2F6DFF] cursor-pointer">View our Help Center</li>
                 <li className="mt-2 list-disc text-lg font-semibold border-b border-[#2F6DFF] pb-1 w-fit text-[#2F6DFF] cursor-pointer">Media inquiries</li>
@@ -49,7 +49,7 @@ const Contact = () => {
 
 
             <div className="bg-white w-auto h-auto lg:h-[43rem] lg:w-[38rem] lg:rounded-3xl lg:shadow-lg lg:border lg:px-7 py-10">
-              <h1 className="text-[2rem] font-bold text-black dark:text-white mb-[1.5rem]">Contact ShipBob’s Sales Team</h1>
+              <h1 className="text-[2rem] font-bold text-black dark:text-white mb-[1.5rem]">Contact 3PHOST Sales Team</h1>
               <p className="text-xl font-semibold text-black dark:text-white mb-[1rem]">Need customer support? Please go <span className=" border-b border-[#2F6DFF]  w-fit text-[#2F6DFF] cursor-pointer">here</span>.</p>
 
               <form action="">

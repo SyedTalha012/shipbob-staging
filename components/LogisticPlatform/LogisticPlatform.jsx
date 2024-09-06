@@ -99,7 +99,7 @@ function LogisticPlatform() {
                     Freight & Shipping Solutions
                     </h2>
                     <p className="text-gray-700 my-12">
-                    Last-mile fulfillment is just part of the equation. ShipBob partners with <br/>these carriers and shipping platforms to lower your shipping costs.<br/>Note: A blue checkmark represents a direct integration.
+                    Last-mile fulfillment is just part of the equation. 3PHOST partners with <br/>these carriers and shipping platforms to lower your shipping costs.<br/>Note: A blue checkmark represents a direct integration.
 
 
                     </p>

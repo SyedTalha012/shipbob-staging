@@ -129,7 +129,7 @@ function FinancialPlatforms() {
                         Accounting, Tax and Financing
                     </h2>
                     <p className="text-gray-700 my-12">
-                        We’re not all great at math. ShipBob partners with the top accounting and <br />customer data, marketing and handling support tickets.<br /> Note: A blue checkmark represents a direct integration.
+                        We’re not all great at math. 3PHOST partners with the top accounting and <br />customer data, marketing and handling support tickets.<br /> Note: A blue checkmark represents a direct integration.
                     </p>
                     <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
                         {platforms.map((platform, index) => (
