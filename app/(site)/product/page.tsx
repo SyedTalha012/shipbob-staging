@@ -1,3 +1,4 @@
+"use client"
 import About from '@/components/About'
 import Brands from '@/components/Brands'
 import Feature from '@/components/Features'
