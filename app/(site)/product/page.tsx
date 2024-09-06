@@ -8,7 +8,7 @@ import ProductHero from '@/components/Hero/ProductHero'
 import Integration from '@/components/Integration'
 import Cards from '@/components/Cards/Cards'
 import Solution from '@/components/Solution/Solution'
-import FulfillmentSteps from '@/components/FulfillmentSteps/FulfillmentSteps'
+import FulfillmentSteps from '../../../components/FulfillmentSteps/FulfillmentSteps'
 import FunFactProduct from '@/components/FunFact/FunFactProduct'
 
 import React from 'react'
