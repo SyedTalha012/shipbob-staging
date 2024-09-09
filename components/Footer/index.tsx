@@ -36,7 +36,7 @@ const Footer = () => {
                   <FaYoutube className="text-[#175CFF] text-2xl" />
                 </div>
 
-                <a href="#" className="text-lg font-medium text-white">© Copyright 3PHOST, Inc. All Rights Reserved. 120 N Racine Ave. Suite 100 Chicago, IL 60607</a>
+                <a href="#" className="text-lg font-medium text-white">© Copyright 3PHOST, Inc. All Rights Reserved. 13727 SW 152 Street #747 Miami, FL 33177</a>
               </motion.div>
 
               <div className="flex w-full flex-col gap-5 md:flex-row md:justify-between md:gap-0 lg:w-2/3 xl:w-7/12">
